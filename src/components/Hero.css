@@ -1,0 +1,14 @@
+.Hero_Section {
+    color: white;
+    background-color: black;
+    padding: 60px;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+}
+.Hero_img {
+    padding: 20px;
+}
+.Hero_content {
+    float: left;
+}

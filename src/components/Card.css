@@ -1,0 +1,15 @@
+.Card_Content {
+    padding: 25px;
+    background-color: black;
+}
+.Each_Card {
+    /* border-radius: 10px;
+    background-color: black; */
+}
+.Typo1 {
+    color: white;
+    background-color: black;
+    border-radius: 20px;
+    padding: 10px;
+    /* float: left; */
+}
